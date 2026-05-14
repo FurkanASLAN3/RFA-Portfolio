@@ -1,4 +1,5 @@
 <?php
+// Database connection configuration for InfinityFree
 $host = "localhost"; 
 $user = "root"; 
 $pass = ""; 
